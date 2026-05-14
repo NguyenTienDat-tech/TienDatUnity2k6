@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1a7c00aba71278448c4b2ac3e460ca6, type: 3}
+  m_Name: soulKnight
+  m_EditorClassIdentifier: 
+  npcName: Soul Knight
+  npcSprite: {fileID: 509649084, guid: 941e8e38dec79964bbaf4dc580be1224, type: 3}
+  dialogueLine:
+  - "\u0110au qu\xE1... \u0110\u01B0\u1EE3c r\u1ED3i, t\xF4i thua! B\u1EA1n th\u1EAFng
+    r\u1ED3i!"
+  - "Xin l\u1ED7i v\xEC \u0111\xE3 l\xE0m b\u1EA1n gi\u1EADn. Th\u1EADt ra, t\xF4i
+    kh\xF4ng c\xF3 \xFD \u0111\u1ECBnh gi\u1EBFt b\u1EA1n \u0111\xE2u. T\xF4i l\xE0
+    Soul Knight. T\u1EA5t c\u1EA3 c\u1EA1m b\u1EABy n\xE3y gi\u1EDD... ch\u1EC9 l\xE0
+    m\u1ED9t b\xE0i ki\u1EC3m tra n\u0103ng l\u1EF1c. "
+  - "Qu\xEA h\u01B0\u01A1ng t\xF4i \u0111ang b\u1ECB b\u1ECDn qu\xE1i v\u1EADt t\xE0n
+    ph\xE1. T\xF4i \u0111\xE3 r\u1EA5t tuy\u1EC7t v\u1ECDng... t\xF4i \u0111i v\xE0o
+    gi\u1EA5c m\u01A1 c\u1EE7a m\u1ECDi ng\u01B0\u1EDDi ch\u1EC9 \u0111\u1EC3 t\xECm
+    m\u1ED9t tia hy v\u1ECDng."
+  - "V\xE0 b\u1EA1n ch\xEDnh l\xE0 tia hy v\u1ECDng \u0111\xF3. B\u1EA1n l\xE0 ng\u01B0\u1EDDi
+    \u0111\u1EA7u ti\xEAn \u0111\xE1nh b\u1EA1i \u0111\u01B0\u1EE3c t\xF4i."
+  - "T\xF4i bi\u1EBFt y\xEAu c\u1EA7u n\xE0y h\u01A1i qu\xE1 \u0111\xE1ng sau nh\u1EEFng
+    g\xEC t\xF4i v\u1EEBa l\xE0m... nh\u01B0ng l\xE0m \u01A1n, h\xE3y gi\xFAp t\xF4i
+    c\u1EE9u l\u1EA5y m\u1ECDi ng\u01B0\u1EDDi."
+  - "C\xE1nh c\u1EEDa ph\xEDa tr\u01B0\u1EDBc d\u1EABn \u0111\u1EBFn th\u1EBF gi\u1EDBi
+    th\u1EF1c, n\u01A1i cu\u1ED9c chi\u1EBFn t\xE0n kh\u1ED1c h\u01A1n g\u1EA5p tr\u0103m
+    l\u1EA7n. B\u1EA1n... s\u1EBD \u0111i c\xF9ng t\xF4i ch\u1EE9?\""
+  - "N\u1EBFu b\u1EA1n \u0111\xE3 s\u1EB5n s\xE0ng, h\xE3y \u0111i qua c\xE1nh c\u1EEDa
+    ph\xEDa tr\u01B0\u1EDBc v\xE0 \u0111\u1ED1i m\u1EB7t v\u1EDBi th\u1EED th\xE1ch
+    s\u1EAFp t\u1EDBi!!!"
+  typingSpeed: 0.05

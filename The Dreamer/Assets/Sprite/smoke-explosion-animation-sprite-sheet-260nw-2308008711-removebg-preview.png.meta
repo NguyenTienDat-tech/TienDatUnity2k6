@@ -1,0 +1,576 @@
+fileFormatVersion: 2
+guid: 22507144022eba741b0b609fa7598fb5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 233
+        width: 104
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346e452a129544640af1d729b35ab5be
+      internalID: -1314293523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 158
+        width: 28
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea4776f55360514492c7d618884472d
+      internalID: -170746824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 227
+        width: 136
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113ed77a5dd5ff84b9ba660afb94476b
+      internalID: -765842712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 157
+        width: 4
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93eda67d3d09e954cabda21e8255c29e
+      internalID: -1744985022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 157
+        width: 194
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6fc2b2bf7b06c4d882cce1e4376aeb
+      internalID: -1556467585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 229
+        width: 106
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063f9a0c6d1e1a845aecb6eaabe766b5
+      internalID: -604178843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 228
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92352982a0470394fb922e895b03991d
+      internalID: -1076094583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 181
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e124b06f5d9db488605406ca56c3d7
+      internalID: 287776148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 156
+        width: 101
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f78e372d403806498d440efcff8dbc3
+      internalID: -20641542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 160
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75844140198ba5943be1a3a39e461225
+      internalID: 2047716836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 156
+        width: 101
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a695dee6fca1c44ea637a01ccc515ba
+      internalID: 2012995708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 160
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586de81766ff21b4c8ffb44c9df6da6b
+      internalID: -18975534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 156
+        width: 74
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283b481ebe47eea43b8b54340350cc2e
+      internalID: 209972742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 160
+        width: 67
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d33aa9d22f5c0b4db40924ecfa07dea
+      internalID: 1555494986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 158
+        width: 108
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f767686e1d9bc468aa4590db080fe8
+      internalID: -1992871110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 158
+        width: 119
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2886626c63058438f5ea61d3e686c2
+      internalID: -651101857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 64
+        width: 428
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39118b4e7258af545b409482c71ea8ab
+      internalID: 1975530781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 135
+        width: 145
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cda90360b09c64885965acff8aaaa0
+      internalID: 477739443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 67
+        width: 118
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa39e02cf004fe45b99ed1280845f87
+      internalID: 488819447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 67
+        width: 109
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db12cbf222555a347942436b57086d13
+      internalID: -1425813059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 3
+        width: 155
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a190f55d43aeaa14abc6fc8103f19454
+      internalID: -814319180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_0: -1314293523
+      smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_1: -170746824
+      smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_10: 2012995708
+      smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_11: -18975534
+      smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_12: 209972742
+      smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_13: 1555494986
+      smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_14: -1992871110
+      smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_15: -651101857
+      smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_16: 1975530781
+      smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_17: 477739443
+      smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_18: 488819447
+      smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_19: -1425813059
+      smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_2: -765842712
+      smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_20: -814319180
+      smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_3: -1744985022
+      smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_4: -1556467585
+      smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_5: -604178843
+      smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_6: -1076094583
+      smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_7: 287776148
+      smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_8: -20641542
+      smoke-explosion-animation-sprite-sheet-260nw-2308008711-removebg-preview_9: 2047716836
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

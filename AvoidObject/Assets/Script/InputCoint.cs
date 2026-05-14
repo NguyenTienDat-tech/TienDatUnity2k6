@@ -1,0 +1,23 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class InputCoint : MonoBehaviour
+{
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            gameObject.SetActive(false);
+        }
+    }
+
+    void Update()
+    {
+        if (transform.position.y < -10)
+        {
+            PoolingManager.Despawn(gameObject);
+        }
+    }
+}

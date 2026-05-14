@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60c151befa2159c45a1e9a0e822107b2, type: 3}
+  m_Name: SungLuc
+  m_EditorClassIdentifier: 
+  weaponName: Pistol
+  weaponSprite: {fileID: 1959780011, guid: 2b89562fced940f469ab5a3825251a3f, type: 3}
+  dropWeapon: {fileID: 8857187402589127734, guid: c639da4ba74b2aa4e9bdbcf68b47374e, type: 3}
+  speed: 20
+  damage: 3
+  enermyLost: 0
+  radiate: 0
+  quantity: 1
+  loadTime: 0.3
+  SpriteBullet: {fileID: 9185309694417701745, guid: 50a31547ed22c15489ac63e91c68c780, type: 3}

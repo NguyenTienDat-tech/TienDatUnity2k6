@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - player
+  - ground
+  - Enemy
+  - Flag
+  - Cappa
+  - PhaBlock
+  - NamPhongDai
+  - NamThuNho
+  - SaoMayMan
+  - Coin
+  - ThanhChan
+  - Figure
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Enemy
+  - GroundMap2
+  - Figure
+  - PlayerBay1
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 4114129107
+    locked: 0
+  - name: pites
+    uniqueID: 3768040737
+    locked: 0
+  - name: Player
+    uniqueID: 2544960435
+    locked: 0
+  - name: Ground
+    uniqueID: 1962562673
+    locked: 0
+  - name: BlockJump
+    uniqueID: 1176589543
+    locked: 0
+  - name: health
+    uniqueID: 507485865
+    locked: 0
+  - name: Mario
+    uniqueID: 372958011
+    locked: 0
+  - name: Enemy
+    uniqueID: 486956953
+    locked: 0

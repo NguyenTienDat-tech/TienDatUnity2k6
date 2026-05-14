@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: managerButton
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":104.5937,"y":68.96898},"zoom":0.8940002,"elements":[{"argumentCount":1,"coroutine":false,"defaultValues":{"target":null,"name":{"$content":"Manager","$type":"System.String"}},"position":{"x":-153.0,"y":-23.0},"guid":"c735f4f5-505d-43fb-9f00-8514b2ae70cd","$version":"A","$type":"Unity.VisualScripting.CustomEvent","$id":"9"},{"kind":"Scene","defaultValues":{"name":{"$content":"moveHorizontal","$type":"System.String"}},"position":{"x":78.0,"y":-37.0},"guid":"c0a67bb4-3dc1-4693-8332-7a8c9d30f05a","$version":"A","$type":"Unity.VisualScripting.SetVariable","$id":"11"},{"sourceUnit":{"$ref":"9"},"sourceKey":"trigger","destinationUnit":{"$ref":"11"},"destinationKey":"assign","guid":"a67af362-2705-4592-847d-0c4abd521132","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"9"},"sourceKey":"argument_0","destinationUnit":{"$ref":"11"},"destinationKey":"input","guid":"9680b0bd-e9f1-4d07-a075-2fd671ab0272","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []

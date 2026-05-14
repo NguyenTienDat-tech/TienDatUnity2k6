@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60c151befa2159c45a1e9a0e822107b2, type: 3}
+  m_Name: Shootgun 1
+  m_EditorClassIdentifier: 
+  weaponName: Shootgun
+  speed: 12
+  damage: 3
+  enermyLost: 3
+  radiate: 15
+  quantity: 5
+  loadTime: 0.8
+  SpriteBullet: {fileID: 8517154898389879634, guid: c0dfd8e8dee36a3498f08bdff6d93132, type: 3}

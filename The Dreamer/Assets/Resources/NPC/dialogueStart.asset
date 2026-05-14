@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1a7c00aba71278448c4b2ac3e460ca6, type: 3}
+  m_Name: dialogueStart
+  m_EditorClassIdentifier: 
+  npcName: ???
+  npcSprite: {fileID: 509649084, guid: 941e8e38dec79964bbaf4dc580be1224, type: 3}
+  dialogueLine:
+  - "Hehehe, ch\xE0o ng\u01B0\u1EDDi ch\u01A1i!"
+  - "H\u1EB3n b\u1EA1n \u0111ang kh\xF4ng bi\u1EBFt t\xF4i l\xE0 ai ph\u1EA3i kh\xF4ng? "
+  - "Th\u1EADt ra t\xF4i c\u0169ng ch\u1EA3 bi\u1EBFt m\xECnh l\xE0 ai c\u1EA3, hahaha!"
+  - "Th\xF4i v\xE0o ch\u1EE7 \u0111\u1EC1 ch\xEDnh nh\xE9. C\xF3 ph\u1EA3i b\u1EA1n
+    \u0111ang th\u1EAFc m\u1EAFc m\xECnh \u0111ang \u1EDF \u0111\xE2u kh\xF4ng?"
+  - "B\u1EA1n \u0111ang b\u1ECB m\u1EAFc k\u1EB9t trong ch\xEDnh gi\u1EA5c m\u01A1
+    c\u1EE7a m\xECnh, v\xE0 t\u1EC7 h\u01A1n l\xE0 b\u1EA1n kh\xF4ng th\u1EC3 t\u1EF1
+    t\u1EC9nh d\u1EADy \u0111\u01B0\u1EE3c."
+  - "Nh\u01B0ng \u0111\u1EEBng lo, t\xF4i s\u1EBD \u0111\u1ED3ng h\xE0nh v\xE0 \u0111\u01B0a
+    b\u1EA1n tr\u1EDF v\u1EC1 th\u1EBF gi\u1EDBi th\u1EF1c an to\xE0n."
+  - "Nhi\u1EC7m v\u1EE5 c\u1EE7a b\u1EA1n l\xE0 c\xE0n qu\xE9t qu\xE1i v\u1EADt v\xE0
+    tho\xE1t kh\u1ECFi ng\u1EE5c t\u1ED1i n\xE0y."
+  - "Ng\u1EE5c t\u1ED1i \u0111\u01B0\u1EE3c chia th\xE0nh nhi\u1EC1u ph\xF2ng. H\xE3y
+    c\u1EA9n th\u1EADn v\xEC qu\xE1i v\u1EADt r\xECnh r\u1EADp kh\u1EAFp n\u01A1i,
+    nh\u01B0ng n\u1EBFu may m\u1EAFn, b\u1EA1n s\u1EBD t\xECm th\u1EA5y r\u01B0\u01A1ng
+    b\xE1u ch\u1EE9a s\xFAng, b\xECnh m\xE1u v\xE0 b\xECnh n\u0103ng l\u01B0\u1EE3ng."
+  - "H\u01B0\u1EDBng d\u1EABn: Di chuy\u1EC3n: l\xEAn: W, xu\u1ED1ng: S, tr\xE1i:
+    A, ph\u1EA3i: D B\u1EAFn s\xFAng: chu\u1ED9t tr\xE1i L\u01B0\u1EDBt: Space Nh\u1EB7t
+    \u0111\u1ED3: E "
+  - "Ch\xFAc b\u1EA1n s\u1ED1ng s\xF3t... \xE0 nh\u1EA7m, ch\xFAc may m\u1EAFn!!!"
+  typingSpeed: 0.05

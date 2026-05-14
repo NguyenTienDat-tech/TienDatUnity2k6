@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60c151befa2159c45a1e9a0e822107b2, type: 3}
+  m_Name: SliverHead
+  m_EditorClassIdentifier: 
+  weaponName: SliverHead
+  weaponSprite: {fileID: 21300000, guid: 8503f05b9d352294fb54b75bd5922ff6, type: 3}
+  dropWeapon: {fileID: 7425354236860353192, guid: ddbd8d7818850a44d913dd06fd4547ad, type: 3}
+  speed: 22
+  damage: 2
+  enermyLost: 1
+  radiate: 6
+  quantity: 1
+  loadTime: 0.12
+  SpriteBullet: {fileID: 302644058235540723, guid: 4d1294cb53c01eb47a2554f2c86e750f, type: 3}
