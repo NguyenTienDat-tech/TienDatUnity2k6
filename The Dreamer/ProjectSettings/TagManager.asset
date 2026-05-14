@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Bullet
+  - BulletofEnemy
+  - Wall
+  - Box
+  - Gun
+  - SliverHead
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Bullet
+  - BulletofEnemy
+  - Enemy
+  - Room1
+  - Health
+  - Chest
+  - gun
+  - Enermy
+  - Square
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 1773676745
+    locked: 0
+  - name: Wall
+    uniqueID: 310939641
+    locked: 0
+  - name: DoVat
+    uniqueID: 1594446395
+    locked: 0
+  - name: Enemy
+    uniqueID: 3346678551
+    locked: 0
+  - name: Bullet
+    uniqueID: 1194947811
+    locked: 0
+  - name: Player
+    uniqueID: 1658360339
+    locked: 0
+  - name: Cot
+    uniqueID: 2781441589
+    locked: 0
+  - name: Bottle
+    uniqueID: 719296475
+    locked: 0
+  - name: Canvas
+    uniqueID: 841112397
+    locked: 0
+  - name: New Layer 10
+    uniqueID: 807889515
+    locked: 0
